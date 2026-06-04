@@ -1,0 +1,4 @@
+# Exclude Jupyter notebooks from GitHub language statistics (Linguist).
+# Notebooks remain in the repo and are fully browsable on GitHub.
+# https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github
+notebooks/** linguist-documentation
